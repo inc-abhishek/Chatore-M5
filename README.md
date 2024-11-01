@@ -6,11 +6,8 @@ Chatore is a modern and intuitive food delivery platform that aims to bring deli
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact](#contact)
-- [License](#license)
+
 
 ## Features
 
