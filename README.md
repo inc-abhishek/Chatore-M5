@@ -38,18 +38,15 @@ Chatore is a modern and intuitive food delivery platform that aims to bring deli
 - **Backend**:
   - **Firebase**: Used for user authentication and real-time database functionality.
 
-  Contributing
+  ** Contributing **
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
-
 To contribute, follow these steps:
-
-Fork the repository.
-
-Create a new branch:
+----Fork the repository.----
+----Create a new branch:----
 
 
 
-Contact
+**Contact**
 For any inquiries or feedback, feel free to reach out:
 
 Name: Abhishek Pal
